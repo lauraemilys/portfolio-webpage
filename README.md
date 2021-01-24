@@ -17,8 +17,12 @@ _This is my first coding class. My portfolio is my first ever code review with E
 
 ## Setup/Installation Requirements
 
-* _Simple webpage_
-* _Click to open and read_
+* _Go to the link below to view my portfolio_
+* _https://lauraemilys.github.io/portfolio-webpage/_
+* _To fork or clone repository go to the link below_
+* _https://github.com/lauraemilys/portfolio-webpage_
+* _Directions on how to clone a Github repo can be found at the link below_
+* _https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository_
 
 ## Known Bugs
 
